@@ -1,3 +1,6 @@
 spring:
   application:
     name: aop
+
+  # aop:
+    # proxy-target-class: true # CGLIB 무조건. false는 동적 프록
